@@ -1,0 +1,5 @@
+http://localhost/tienda_ropa/scripts/api/prendas.php
+
+http://localhost/tienda_ropa/scripts/api/reporte_marcas.php
+
+http://localhost/tienda_ropa/scripts/api/top_5_marcas.php
